@@ -1,7 +1,11 @@
+### [**Zero-Copy 정리 블로그 링크**](https://virtualworld.tistory.com/entry/IO-%EB%B3%91%EB%AA%A9%EC%9D%84-%EC%97%86%EC%95%A0%EB%8A%94-%EB%B0%A9%EB%B2%95-Zero-Copy-feat-sendfile-DMA)
+
+</br>
+
 # Zero-Copy vs Traditional I/O 성능 비교
 **기존의 파일 전송 방식(전통적인 방식, read(), write())** 과 **Zero-Copy 방식 (FileChannel.transferTo)** 간의 **성능 차이**를 비교합니다.
 
-## [**Zero-Copy 정리 블로그 링크**](https://virtualworld.tistory.com/entry/IO-%EB%B3%91%EB%AA%A9%EC%9D%84-%EC%97%86%EC%95%A0%EB%8A%94-%EB%B0%A9%EB%B2%95-Zero-Copy-feat-sendfile-DMA)
+</br>
 
 ##  목적
 
